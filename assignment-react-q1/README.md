@@ -1,10 +1,14 @@
 # Assignment 02 – Q1: Student Profile Card
 
-## What We Built
+## Live Demo
+
+🔗 [https://assignment-2-alpha-mocha.vercel.app/](https://assignment-2-alpha-mocha.vercel.app/)
+
+## What I Built
 
 A React application that displays student profile cards in a 2-column grid layout. Each card shows basic student information and has a toggle button to show or hide additional details.
 
-## What We Used
+## What I Used
 
 - **React** – JavaScript library for building the UI
 - **Vite** – Fast build tool and development server

@@ -1,10 +1,14 @@
 # Assignment 02 – Q2: Text Analyzer
 
-## What We Built
+## Live Demo
+
+🔗 [https://assignment-2-r7zo.vercel.app/](https://assignment-2-r7zo.vercel.app/)
+
+## What I Built
 
 A React application that analyzes text entered by the user in real time. It counts characters and words, displays the entered text below the textarea, and updates the browser tab title whenever the character count changes.
 
-## What We Used
+## What I Used
 
 - **React** – JavaScript library for building the UI
 - **Vite** – Fast build tool and development server
